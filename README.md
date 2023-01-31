@@ -1,6 +1,6 @@
 ### Como desplegarlo:
 
-- Clona el repo, abrilo en tu editor favoritom, en la terminal corremos el comando "npm i" y luego "npm run dev" para iniciar el servidor de desarrollo.
+- Cloná el repo, abrilo en tu editor favorito, en la terminal corremos el comando "npm i" y luego "npm run dev" para iniciar el servidor de desarrollo.
 
 #
 
